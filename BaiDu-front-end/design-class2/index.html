@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>百度前端学院训练题2</title>
+	<style>
+		body{
+			margin: 0;
+			padding: 0;
+		}
+		.contain{
+			width: 600px;
+			display: flex;
+			justify-content:space-between; 
+			margin-top: 22px;
+			margin-left: 20px
+		}
+		.box{
+			width: 60px;
+			height: 68px;
+			text-align: center;
+			line-height: 64px;
+			border: 2px solid #EBEBEB;
+			background-color: #F7F6F6;
+			display: inline-block;
+			margin-right: 30px;
+		}
+		.box1{
+			transform: skewX(30deg);
+			-moz-transform: skewX(30deg);
+			-webkit-transform: skewX(30deg);
+			-o-transform: skewX(30deg);
+		}
+		.box2{
+			transform: scale(0.5,1);
+			-moz-transform: scale(0.5,1);
+			-o-transform: scale(0.5,1);
+			-webkit-transform: scale(0.5,1);
+		}
+		.box3{
+			transform: rotate(45deg);
+			-moz-transform: rotate(45deg);
+			-webkit-transform: rotate(45deg);
+			-o-transform: rotate(45deg);
+		}
+		.box4{
+			transform: translate(10px,20px);
+			-moz-transform: translate(10px,20px);
+			-webkit-transform: translate(10px,20px);
+			-o-transform: translate(10px,20px);
+		}
+		.box5{
+			-moz-transform: skewX(30deg) scaleX(.5) rotate(45deg) translate(10px,20px) translate(10px,20px);
+			-webkit-transform: skewX(30deg) scaleX(.5) rotate(45deg) translate(10px,20px) translate(10px,20px);
+			-o-transform: skewX(30deg) scaleX(.5) rotate(45deg) translate(10px,20px) translate(10px,20px);
+			transform: skewX(30deg) scale(.5,1) rotate(45deg) translate(10px,20px) translate(10px,20px);
+		}
+	</style>
+</head>
+<body>
+<div class="contain">	
+		<div class="box">
+				box0
+		</div>
+		<div class="box box1">
+			box1
+		</div>
+		<div class="box box2">
+			box2
+		</div>
+		<div class="box box3">
+			box3
+		</div>
+		<div class="box box4">
+			box4
+		</div>
+		<div class="box box5">
+			box5
+		</div>
+</div>
+
+</body>
+</html>

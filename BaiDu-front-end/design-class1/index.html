@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>百度前端学院训练题1</title>
+	<style>
+		body{
+			margin: 0;
+			padding: 0;
+		}
+		.contain{
+			text-align: center;
+			width: 100%;
+			font-size: 24px;
+			font:bold;
+			margin: 30px;
+			-webkit-transition: all .4s;
+			-moz-transition: all .4s;
+			-o-transition: all .4s;
+		}
+		.change{
+			font-size: 20px;
+			margin: 50px auto;
+			padding: 5px 10px;
+			display: block;
+			background-color: white;
+			border: 2px solid black;
+			border-radius: 8px;
+			-webkit-border-radius:8px;
+			-moz-border-radius:8px;
+			cursor: pointer;
+			outline: none;
+		}
+		hr{
+			width: 0;
+			height: 5px;
+			background-color: blue;
+			border: none;
+			transition: all .4s;
+			-webkit-transition: all .4s;
+			-o-transition: all .4s;
+			-moz-transition: all .4s;
+		}
+		button:active {
+		    background: rgba(0, 0, 0, 0.1);
+		    animation: ripple .3s linear;
+		    -webkit-animation:ripple .3s linear;
+		    -moz-animation:ripple .3s linear;
+		    -o-animation:ripple .3s linear;
+		}
+	</style>
+</head>
+<body>
+	<div class="contain">
+		<div id="title" class="title">前端学院<hr></div>
+		<button id="change" class="change">
+		切换样式
+		</button>
+	</div>
+
+<script src="./main.js"></script>	
+</body>
+</html>

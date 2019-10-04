@@ -1,0 +1,36 @@
+		.contain {
+            width: 250px;
+            height: 350px;
+            margin: 100px auto;
+            position: relative;
+        }
+        img {
+            position: absolute;
+            transition: all 1s;
+            -moz-transition: all 1s;
+            -o-transition: all 1s;
+            -webkit-transition: all 1s;
+        }
+        .two {
+        	transform: rotateY(-180deg); 
+        	-moz-transform: rotateY(-180deg); 
+        	-o-transform: rotateY(-180deg); 
+        	-webkit-transform: rotateY(-180deg); 
+        }
+        .contain:hover .one {
+            transform: rotateY(180deg); 
+            -moz-transform: rotateY(180deg); 
+            -o-transform: rotateY(180deg); 
+            -webkit-transform: rotateY(180deg); 
+        }
+        .contain:hover .two {
+            transform: rotateY(0); 
+            -moz-transform: rotateY(0); 
+            -o-transform: rotateY(0); 
+            -webkit-transform: rotateY(0); 
+        }
+        .one {
+            backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            z-index: 9;          
+        }

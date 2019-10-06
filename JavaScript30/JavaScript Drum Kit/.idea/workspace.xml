@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a942a4b1-da36-4c55-a6c3-d848d5d5de24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/boom.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/clap.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/hihat.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/kick.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/openhat.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/ride.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/snare.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/tink.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sounds/tom.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Youtube/卡片式鼠标悬浮效果/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Youtube/卡片式鼠标悬浮效果/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS+JS Clock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS+JS Clock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS+JS Clock/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS+JS Clock/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570205964951</updated>
       <workItem from="1570205966379" duration="6756000" />
+      <workItem from="1570345011041" duration="20000" />
     </task>
     <servers />
   </component>
@@ -83,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

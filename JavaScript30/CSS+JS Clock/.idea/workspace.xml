@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9aac9eba-d43b-49de-a6c5-897ec4841ed2" name="Default Changelist" comment="" />
+    <list default="true" id="044b0339-6896-43d2-92ff-56adddec677f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Youtube/卡片式鼠标悬浮效果/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Youtube/卡片式鼠标悬浮效果/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1Rk6wJ2XFEtbI5bB98AbI38a9Kh" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Rmu4vxB7Kjza35fWWsZQdjSIp9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -35,16 +41,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9aac9eba-d43b-49de-a6c5-897ec4841ed2" name="Default Changelist" comment="" />
-      <created>1570198983590</created>
+      <changelist id="044b0339-6896-43d2-92ff-56adddec677f" name="Default Changelist" comment="" />
+      <created>1570284416763</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570198983590</updated>
-      <workItem from="1570198984833" duration="3472000" />
+      <updated>1570284416763</updated>
+      <workItem from="1570284433383" duration="2979000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
